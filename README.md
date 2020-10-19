@@ -18,19 +18,19 @@
 
 </p>
 
-<p align="center">
-  This project was developed in the Next Level Week 3 Discovery made by <a href="/github.com/Rocketseat">Rocketseat</a> during October 12th and 16th, 2020 <p/>
-
 <h2 align=center> About </h2>
- <b>Happy</b> is a project to connect people and orphanages and provide greater interactivity of these institutions with people interested in share love and affection to children and making their days happier. </h2>
+ <p align="center"><b>Happy</b> is a project to connect people and orphanages and provide greater interactivity of these institutions with people interested in share love and affection to children and making their days happier. Also this project was developed in the Next Level Week 3 track Discovery made by <a href="/github.com/Rocketseat">Rocketseat</a> during October 12th and 16th, 2020 </p>
  
  <h3 align= "center">
   <img alt="HappyBA" src="./public/images/Screenshot_40.png" width=90% />
  
  </h3>
  
+ 
+ 
 
 ### ⚙ Features
+Os requisitos para o desenvolvimento foi instalação do VScode, Git e como database usamos o SQLite.
 **Front end**
 * HTML5
 * CSS3

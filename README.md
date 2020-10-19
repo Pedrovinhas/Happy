@@ -22,7 +22,13 @@
   This project was developed in the Next Level Week 3 Discovery made by <a href="/github.com/Rocketseat">Rocketseat</a> during October 12th and 16th, 2020 <p/>
 
 <h2 align=center> About </h2>
- <b>Happy</b> is a project to connect people and orphanages and provide greater interactivity of these institutions with people interested in share love and affection to children and making their days happier.
+ <b>Happy</b> is a project to connect people and orphanages and provide greater interactivity of these institutions with people interested in share love and affection to children and making their days happier. </h2>
+ 
+ <h3 align= "center">
+  <img alt="HappyBA" src="./public/images/Screenshot_40.png" width=90% />
+ 
+ </h3>
+ 
 
 ### ⚙ Features
 **Front end**
@@ -49,4 +55,5 @@
 
 
 
-## License
+### 📝 License
+This project is under MIT license. Check the [LICENSE](LICENSE.md) file for more details.

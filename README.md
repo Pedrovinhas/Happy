@@ -1,4 +1,6 @@
- # Happy ![Happy](https://raw.githubusercontent.com/Pedrovinhas/Nlw-03-Happy/main/public/images/logo-icon.png) 
+<p align=center>
+ <img alt="Happyzinho" src="./public/images/peu 1.png"/>
+</p>
 
 
 

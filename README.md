@@ -8,8 +8,8 @@
 <p align="center">
   This project was developed in the Next Level Week 3 Discovery made by <a href="/github.com/Rocketseat">Rocketseat</a> during October 12th and 16th, 2020 <p/>
 
-### About
- **Happy** is a project to connect people and orphanages and provide greater interactivity of these institutions with people interested in share love and affection to children and making their days happier.
+<h2 align=center> About </h2>
+ <b>Happy</b> is a project to connect people and orphanages and provide greater interactivity of these institutions with people interested in share love and affection to children and making their days happier.
 
 ### ⚙ Features
 **Front end**

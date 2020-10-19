@@ -1,9 +1,20 @@
+ # Happy ![Happy](https://raw.githubusercontent.com/Pedrovinhas/Nlw-03-Happy/main/public/images/logo-icon.png) 
 
-  # Happy ![Happy](https://raw.githubusercontent.com/Pedrovinhas/Nlw-03-Happy/main/public/images/logo-icon.png) 
+
 
 <h1 align="center">
     🚀 Next Level Week 3!
 </h1>
+
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pedrovinhas/Nlw-03-Happy?color=%2317D6EB">
+  <img alt="Github" src="https://img.shields.io/badge/javascript-ecma2018-yellow?logo=javascript&style=flat">
+  <img alt="Github" src="https://img.shields.io/badge/html-5.0-F16529?logo=html5&style=flat">
+  <img alt="Github" src="https://img.shields.io/badge/css-3.0-2965f1?logo=CSS3&style=flat">
+  <img alt="GitHub" src="https://img.shields.io/github/license/pedrovinhas/Nlw-03-Happy?color=%2317D6EB">
+
+
+</p>
 
 <p align="center">
   This project was developed in the Next Level Week 3 Discovery made by <a href="/github.com/Rocketseat">Rocketseat</a> during October 12th and 16th, 2020 <p/>
